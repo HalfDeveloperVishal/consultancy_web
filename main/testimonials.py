@@ -14,7 +14,7 @@ testimonials = [
         "name": "Prem Kumar Bista",
         "college": "Birendra Namuna College",
         "address": "Chandragadi, Jhapa",
-        "image": "images/prem.jpg",
+        "image": "images/randomimg.jpg",
         "comment": """
             I was properly guided and the entire process was hassle free. My
             sincere gratitude to <b>Venue Education Consultancy</b> for making
