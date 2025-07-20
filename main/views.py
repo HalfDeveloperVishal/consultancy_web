@@ -27,3 +27,12 @@ def cancollege(request):
 
 def auscollege(request):
     return render(request,'main/auscollege.html')
+
+def uk_harvard_unversity_detail_view(request):
+    return render(request, 'uk_college_detail/harvard University_description.html')
+
+def uk_stanford_unversity_detail_view(request):
+    return render(request, 'uk_college_detail/stanford_university_detail.html')
+
+def uk_mit_unversity_detail_view(request):
+    return render(request, 'uk_college_detail/MIT_university_detail.html')

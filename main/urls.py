@@ -10,4 +10,7 @@ urlpatterns=[
     path('cancolleges/',views.cancollege,name="cancollege"),
     path('uscolleges/',views.uscollege,name="uscollege"),
     path('auscolleges/',views.auscollege,name="auscollege"),
+    path('colleges/harvard/', views.uk_harvard_unversity_detail_view, name='uk_harvard_university_detail'),
+    path('colleges/stanford/', views.uk_stanford_unversity_detail_view, name='uk_stanford_unversity_detail'),
+    path('colleges/stanford/', views.uk_mit_unversity_detail_view, name='uk_mit_unversity_detail'),
 ]
